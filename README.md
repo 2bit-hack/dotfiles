@@ -6,3 +6,4 @@
 **Runner:** [rofi](https://github.com/davatorium/rofi)
 **Compositor:** [compton](https://github.com/chjj/compton)
 
+![Desktop](https://github.com/2bit-hack/dotfiles/blob/master/desktop.png "Desktop")
